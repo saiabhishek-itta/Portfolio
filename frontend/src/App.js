@@ -5,7 +5,6 @@ import Home from "./components/home/Home";
 import About from './components/about/About';
 import Portfolio from './components/portfolio/Portfolio'
 import Services from './components/services/Services';
-//import Testimonials from './components/testimonials/Testimonials';
 import Testimonials from './components/testimonials/Testimonials'
 import Resume from './components/resume/Resume';
 
