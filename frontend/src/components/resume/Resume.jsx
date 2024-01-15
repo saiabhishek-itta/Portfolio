@@ -3,8 +3,10 @@ import "./resume.css";
 
 const Resume = () => {
   return (
-    <div>Resume</div>
+    <section className="resume container section" id="resume">
+      <h2 className="section__title">Experience</h2>
+    </section>
   )
 }
 
-export default Resume
+export default Resume;

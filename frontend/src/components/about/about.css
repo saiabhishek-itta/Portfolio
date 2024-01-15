@@ -1,0 +1,25 @@
+.about__container {
+    grid-template-columns: 9fr 9fr;
+    column-gap: 1.875rem;
+    display: flex;
+}
+
+.about__data{
+    padding: 1.875rem;
+    background-color: var(--container-color);
+    box-shadow: var(--shadow);
+    border-radius: var(--border-radius);
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 1.875rem;
+    align-items: flex-start;
+    position: relative;
+    display: flex;
+}
+
+.about__info{
+    display: flex;
+}
+
+.about__description{
+    width: 50%;
+}
