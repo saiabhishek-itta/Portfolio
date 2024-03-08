@@ -13,6 +13,7 @@ const About = () => {
 
         <div className="about__data grid">
           <div className="about__info">
+            
             <div className="about__description">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
@@ -22,7 +23,6 @@ const About = () => {
             </div>
 
             <div className="about__skills grid">
-              
               <div className="skills__data">
                 <div className="skills__titles">
                   <h3 className="skills__name">Java</h3>
@@ -52,8 +52,8 @@ const About = () => {
                   <span className="skills__percentage">4</span>
                 </div>
               </div>
-
             </div>
+
           </div>
         </div>
       </div>
