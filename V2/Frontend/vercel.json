@@ -1,6 +1,6 @@
 {
     "rewrites": [
-        {"source": "/(.*)", "destination": "/"}
+        {"source": "/(.*)", "destination": "/V2/Frontend"}
     ]
 }
 
