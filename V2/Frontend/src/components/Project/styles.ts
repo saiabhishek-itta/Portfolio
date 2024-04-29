@@ -76,15 +76,18 @@ export const Container = styled.section`
       }
 
     }
+    .body{
+      width:90%;
+    }
   }
 
-  @media (max-width: 960px){
+  @media (max-width: 1500px){
     .projects{
       grid-template-columns: 1fr 1fr;
     }
   }
 
-  @media (max-width: 740px){
+  @media (max-width: 900px){
     .projects{
       grid-template-columns: 1fr;
     }
