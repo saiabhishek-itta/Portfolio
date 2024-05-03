@@ -10,7 +10,7 @@ import instagramIcon from '../../assets/instagram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://SaiAbhishek.in" className="logo">
+      <a href="https://ittasai.web.app" className="logo">
         <span>Regards,</span>
         <span> Sai Abhishek </span>
         <span>❤️</span>
@@ -30,7 +30,7 @@ export function Footer() {
           <img src={linkedin} alt="Linkedin" />
         </a>
         <a
-          href="https://github.com/i-sai-abhishek"
+          href="https://github.com/saiabhishek-itta"
           target="_blank"
           rel="noreferrer"
         >
